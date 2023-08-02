@@ -1,4 +1,4 @@
-# CMSIS_DAP_AND_TOOLS,商用必须让本人知道一下哦
+# CMSIS_DAP_AND_TOOLS,对你有用,请到B站支持一下,谢谢大佬
 
 #### 介绍
 基于HC32F460的CMSIS-DAP,做了FLM算法解析和HEX解析实现芯片离线烧写
